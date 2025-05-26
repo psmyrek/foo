@@ -1,3 +1,3 @@
 # The header
 
-Bar.2
+Bar
